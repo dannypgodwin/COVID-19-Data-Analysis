@@ -8,15 +8,11 @@ For this project, I used the COVID19 dataset published by John Hopkins Universit
 ..
 
 Task 1: Importing COVID19 dataset
-Import COVID19 dataset and prepare it for the analysis by dropping columns and aggregating rows.
 
 Task 2: Finding a good Measure
-Decide on and calculate a good measure for our analysis.
 
 Task 3: Importing World happiness report dataset
-Import World happiness report dataset, dropping useless columns and Merge it with COVID19 dataset to find correlations among our data.
 
 Task 4: Visualizing the results
-Visualize our results using Seaborn.
 
 ..
